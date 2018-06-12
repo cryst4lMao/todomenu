@@ -1,0 +1,16 @@
+{
+  "data":{
+    "categories":[
+      {"id":"001","name":"课程","type":"aliwangwang-o"},
+      {"id":"002","name":"课程","type":"mail"},
+      {"id":"003","name":"课程","type":"mail"},
+      {"id":"004","name":"课程","type":"mail"},
+      {"id":"005","name":"课程","type":"mail"},
+      {"id":"006","name":"课程","type":"mail"},
+      {"id":"007","name":"课程","type":"mail"},
+      {"id":"008","name":"课程","type":"mail"},
+      {"id":"009","name":"课程","type":"mail"}
+    ]
+  }
+
+}
